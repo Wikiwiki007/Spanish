@@ -1,10 +1,42 @@
 # Spanish
 
-
+"=="= pareil
 
 			MOTS ESPAGNOL
      FR		ES
-     
+    table = mesa
+    fauteuil = sillon
+    lit = cama
+    banc = banco
+    bureau = escribrio
+    canapé = sofa
+    four = horno
+    frigo = la nevera
+    fenetre = ventana
+    corbeille = papelera
+    lampe = lampara
+    tiroir = cajon
+    table basse = mesita
+    cheminé = chimenea
+    rideau = cortina
+    baignoire = bañera
+    douche = ducha
+    miroir = espejo
+    dentifrice = la pasta de dientes
+    serviette = toalla
+    savon = jabon
+    WC = vater
+    lavabo ==
+    brosse a dent = cepillo de dientes
+    cuisine = cocina
+    chambre = dormitorio
+    bureau(piece) = despacho
+    escalier = escalera
+    cave = sotano
+    coussin =cojin
+    horloge = reloj
+    tapis = alfombra
+    drap(?) = cabezal
     droite = derecha
     gauche = izquierda
     en haut = arriba
